@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\bin\Debug\net6.0\LargestRectangle.exe
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\bin\Debug\net6.0\LargestRectangle.deps.json
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\bin\Debug\net6.0\LargestRectangle.runtimeconfig.json
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\bin\Debug\net6.0\LargestRectangle.dll
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\bin\Debug\net6.0\ref\LargestRectangle.dll
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\bin\Debug\net6.0\LargestRectangle.pdb
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\LargestRectangle.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\LargestRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\LargestRectangle.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\LargestRectangle.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\LargestRectangle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\LargestRectangle.dll
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\ref\LargestRectangle.dll
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\LargestRectangle.pdb
+C:\Users\HP\Desktop\CodeChallenge2\LargestRectangle\obj\Debug\net6.0\LargestRectangle.genruntimeconfig.cache

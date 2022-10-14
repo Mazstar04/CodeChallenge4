@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\IllegalGoods.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\IllegalGoods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\IllegalGoods.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\IllegalGoods.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\IllegalGoods.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\bin\Debug\net6.0\IllegalGoods.exe
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\bin\Debug\net6.0\IllegalGoods.deps.json
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\bin\Debug\net6.0\IllegalGoods.runtimeconfig.json
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\bin\Debug\net6.0\IllegalGoods.dll
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\bin\Debug\net6.0\ref\IllegalGoods.dll
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\bin\Debug\net6.0\IllegalGoods.pdb
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\IllegalGoods.dll
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\ref\IllegalGoods.dll
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\IllegalGoods.pdb
+C:\Users\HP\Desktop\CodeChallenge2\IllegalGoods\obj\Debug\net6.0\IllegalGoods.genruntimeconfig.cache
